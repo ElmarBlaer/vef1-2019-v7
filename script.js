@@ -137,11 +137,14 @@ function getResponse(guess, correct) {
   }
   if (distance < 5) {
     return 'Mjög nálægt';
-  } else if (distance < 10) {
+  } 
+  else if (distance < 10) {
     return 'Nálægt';
-  } else if (distance < 20) {
+  } 
+  else if (distance < 20) {
     return 'Frekar langt frá';
-  } else if (distance < 50) {
+  } 
+  else if (distance < 50) {
     return 'Langt frá';
   }
 
