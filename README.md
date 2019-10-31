@@ -5,7 +5,7 @@
 Eftir ágiskun er birt:
 
 * "Mjög nálægt" ef munur er undir 5
-* "Nálægt" ef munur er undir 10
+* "Nálægt" ef munur er undir 10 
 * "Frekar langt frá" ef munur er undir 20
 * "Langt frá" ef munur er undir 50
 * "Mjög langt frá" Annars
